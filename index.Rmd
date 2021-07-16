@@ -1,0 +1,42 @@
+<style>
+ol ul {
+    margin-bottom: 10px;
+}
+</style>
+
+---
+title: "JMP Workshop"
+---
+
+### Prerequisite
+
+1. Download and install JMP. Note that the Rotman licensed JMP is Windows only.
+
+    *Instruction coming soon. We are still waiting for the JMP Pro 16 license for 2021-2022 school year.*
+
+2. Get familiar with JMP navigation and basic use.
+
+    * Launch JMP Pro 16. Take a quick 5-minute hands-on tutorial under the menu "Help > Tutorials > Beginners Tutorial".
+    
+    * Go through 3 online video tutorials (about 50mins in total) at [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}. Note the datasets used in the tutorials can be found in JMP under the menu "Help > Sample Data Library".
+    
+
+### Slides
+
+*Coming soon.*
+
+### Data
+
+*Coming soon.*
+
+### Getting-started Resources
+
+* [Getting Started for Academics](https://www.jmp.com/en_us/events/ondemand/webcasts/academic/getting-started-for-academics.html){target="_blank"}
+
+* [JMP Learning Library](https://www.jmp.com/en_us/learning-library.html){target="_blank"}
+
+* [Statistical Thinking for Industrial Problem Solving](https://www.coursera.org/learn/statistical-thinking-applied-statistics){target="_blank"} (Click Enroll for Free, and then choose Audit Only for free access.)
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
