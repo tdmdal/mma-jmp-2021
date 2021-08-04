@@ -27,11 +27,24 @@ title: "JMP Workshop"
 
 ### Slides
 
-*Coming soon.*
+1. Session 1 ([Slides](jmp_bootcamp_part1.pdf))
+    * Workflow overview
+    * Basic data manipulation
 
+2. Session 2 (Slides coming soon)
+    * Join data tables
+    * JMP graphing
+
+3. Session 3 (Slides coming soon)
+    * Modelling
+    * JMP Journal
+    * JMP Scripting Language
+
+    
 ### Data
 
-*Coming soon.*
+Download and unzip the datasets for the workshop ([data.zip](data.zip)).
+
 
 ### Getting-started Resources
 
